@@ -29,12 +29,6 @@ FROM   analysts
 WHERE  username = 'Rupaksingh17';
 ```
 
-| name | role | primary_tools | focus |
-|------|------|---------------|-------|
-| Rupak Kumar | Data Analyst | Python, SQL, Excel, Power BI | Turning raw data into clear, decision-ready insights |
-
----
-
 ## About Me
 
 ```python
@@ -94,41 +88,40 @@ C++            ██████████████░░░░░░   70
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Analysis</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Visualisation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<h4>Languages</h4>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br/>
+
+<h4>Data Analysis</h4>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+<br/>
+
+<h4>Visualisation and Apps</h4>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<br/>
+
+<h4>Tools</h4>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -171,7 +164,33 @@ print(monthly.tail())
 
 <br/>
 
-<img src="https://leetcard.jacoec.dev/Rupak1483?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode" height="180"/>
+<h4>LeetCode</h4>
+
+<a href="https://leetcode.com/u/Rupak1483/"><img src="https://img.shields.io/badge/LeetCode-Rupak1483-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/></a>
+<img src="https://img.shields.io/badge/C++-84_solved-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ solved"/>
+<img src="https://img.shields.io/badge/MySQL-16_solved-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL solved"/>
+<img src="https://img.shields.io/badge/50_Days_Badge-2026-2C7BE5?style=for-the-badge" alt="50 Days Badge 2026"/>
+
+<br/><br/>
+
+<table align="center">
+  <tr>
+    <th>Level</th>
+    <th>Strongest Topics</th>
+  </tr>
+  <tr>
+    <td>Advanced</td>
+    <td>Dynamic Programming, Divide and Conquer, Backtracking</td>
+  </tr>
+  <tr>
+    <td>Intermediate</td>
+    <td>Math, Database, Binary Search</td>
+  </tr>
+  <tr>
+    <td>Fundamental</td>
+    <td>Array, String, Sorting</td>
+  </tr>
+</table>
 
 </div>
 
