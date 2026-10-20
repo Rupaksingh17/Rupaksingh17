@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rupak-kumar-38431b26b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="www.linkedin.com/in/rupak-kumar-1483abc"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/Rupak1483/"><img src="https://img.shields.io/badge/LeetCode-Rupak1483-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="mailto:rupaksingh8975@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <img src="https://komarev.com/ghpvc/?username=Rupaksingh17&label=Profile+Views&color=203a43&style=flat-square" alt="Views"/>
